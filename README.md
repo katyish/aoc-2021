@@ -1,2 +1,5 @@
-# aoc-2021
-2021's Advent of Code
+# Advent of Code
+
+[2021's Advent of Code](https://adventofcode.com/2021)
+
+Day 1: :star: 
