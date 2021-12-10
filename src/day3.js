@@ -8,7 +8,10 @@ class Accumulator {
     this.epsilon = [];
     this.gammaNum = 0;
     this.epsilonNum = 0;
+<<<<<<< HEAD
     this.powerConsumption = 0;
+=======
+>>>>>>> db0f0e6b38102ef8f263d9e4854726c2c5c7ccb9
   }
 
   processColumn = (num) => {
