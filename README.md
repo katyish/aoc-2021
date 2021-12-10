@@ -5,3 +5,5 @@
 Day 1: :star: 
 
 Day 2: :star: :star:
+
+Day 3: :star: 
